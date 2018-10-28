@@ -42,7 +42,7 @@ the International Space Station. Probably the first android devices to be in spa
 ![Image](https://www.phonedog.com/sites/phonedog.com/files/styles/blog_entry/public/blog/main_image/2015/06/androidpeacelarge.jpg?itok=bLaQRv9f)
 
 ## Future of Android 
-
+Change made here --> Android is cool
 Android has come a very long way from its humble beginnings, as the product of a small start up, all the way to becoming the leading mobile operating system worldwide. Now android is getting large, alomost all the smart devices that you find in the market are being launched with the Android as base and being in such a huge impact it a great chance for the developers to get their hands of devices as such to grow in all platforms. In present, android is present in Mobile devices, Smart Watches, Andriod TV's, Fitness bands, Car entertainment system, etc. 
 
 For more information refer to the following website: [Android Authority](https://www.androidauthority.com/history-android-os-name-789433/)
